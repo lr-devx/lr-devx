@@ -1,7 +1,7 @@
 ## Hello there 👋
 I'm Matr-x, an experienced developer!
 
-## About Me
+## About me
 High school student from France; Currently learning arm assembly.
 
 ## My projects
