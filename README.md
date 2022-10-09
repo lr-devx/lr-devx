@@ -10,7 +10,8 @@ High school student from France; Currently learning arm assembly as well as work
  - An operating system for PCs;
  - A 3D game engine;
  - An operating system for gaming;
- - A gaming console.
+ - A gaming console;
+ - A game.
 
 ## Main Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
