@@ -5,7 +5,7 @@ I'm AlianDead/Matr-x, an experienced developer!
 High school student from France; Working on ReNote/Learning ARM assembly.
 
 ## My projects
- - ReNote/Beyond your productivity;
+ - ReNote/Beyond limitations;
  - A modded numworks firmware called "eXsilon";
  - An operating system for PCs;
  - A 3D game engine;
