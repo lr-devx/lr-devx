@@ -2,7 +2,7 @@
 I'm AlianDead/Matr-x, an experienced developer!
 
 ## About me
-High school student from France; Currently learning arm assembly as well as working on ReNote.
+High school student from France; Working on ReNote/Learning ARM assembly.
 
 ## My projects
  - ReNote/Beyond your productivity;
@@ -20,5 +20,13 @@ High school student from France; Currently learning arm assembly as well as work
 
 ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eXmatrx&hide=stars&theme=dark&show_icons=true&layout=compact)
 
+```javascript
+const dbMgr = require("database");
+Database * db = dbMgr::getDB();
+var user = db.query(x => x.name == "AlianDead");
+System.out.print(user.tag);
+free(user);
+```
+
 ## Contact
-Soon.
+**Discord:** AlianDead#6319
