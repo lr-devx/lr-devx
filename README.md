@@ -5,7 +5,7 @@ I'm AlianDead/Matr-x, an experienced developer!
 High school student from France; Working on ReNote/Learning ARM assembly.
 
 ## My projects
- - ReNote/Beyond limitations;
+ - ReNote;
  - An operating system for PCs;
  - A 3D game engine;
  - An operating system for gaming;
