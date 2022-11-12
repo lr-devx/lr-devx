@@ -23,7 +23,7 @@ High school student from France; Working on ReNote/Learning ARM assembly.
 const dbMgr = require("database");
 Database * db = dbMgr::getDB();
 var user = db.query(x => x.name == "AlianDead");
-System.out.print(user.tag);
+System.out.println(user.tag);
 free(user);
 ```
 
