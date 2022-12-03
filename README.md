@@ -2,7 +2,7 @@
 I'm AlianDead/Matr-x, an experienced developer!
 
 ## About me
-High school student from France; Working on ReNote/Learning ARM/x86 assembly.
+High school student from France; Working on ReNote & Learning ARM/x86 assembly.
 
 ## My projects
  - ReNote;
