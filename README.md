@@ -20,6 +20,7 @@ High school student from France; Working on ReNote & Learning ARM/x86 assembly.
 ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eXmatrx&hide=stars&theme=dark&show_icons=true&layout=compact)
 
 ```javascript
+//34ch 1in3 r3pr3s3nts a pr0gr4mm1ng l4ngu4g3 :)
 const dbMgr = require("database");
 Database * db = dbMgr::getDB();
 var user = db.query(x => x.name == "AlianDead");
