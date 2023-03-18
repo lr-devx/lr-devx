@@ -2,9 +2,9 @@
 I'm AlianDead/Matr-x, an experienced developer!
 
 ## About me
-High school student from France; Working on my 2D game engine & Learning ARM/x86 assembly.
+High school student from France.
 
-## My projects
+## My current projects
  - ReNote;
  - An operating system for PCs;
  - A 3D game engine;
