@@ -2,7 +2,7 @@
 I'm AlianDead/Matr-x, an experienced developer!
 
 ## About me
-High school student from France.
+I'm an High school student from France. I started my journey as a developer in 2019. 
 
 ## My current projects
  - ReNote;
