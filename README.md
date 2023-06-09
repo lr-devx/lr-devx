@@ -6,6 +6,7 @@ I'm an High school student from France. I started my journey as a developer in 2
 
 ## My current projects
  - ReNote;
+ - eXsilon;
  - An operating system for PCs;
  - A 3D game engine;
  - A 2D game engine;
