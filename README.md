@@ -1,8 +1,8 @@
 ## Hello there 👋
-I'm AlianDead/Matr-x, an experienced developer!
+This is Project Alian/DEAD — and Matr-x, experienced developer behind the project!
 
 ## About me
-I'm an High school student from France. I started my journey as a developer in 2019. 
+I'm an High School student from France. I started my journey as a developer in late 2019.
 
 ## My current projects
  - ReNote;
@@ -22,4 +22,4 @@ I'm an High school student from France. I started my journey as a developer in 2
 ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eXmatrx&hide=stars&theme=dark&show_icons=true&layout=compact)
 
 ## Contact
-**Discord:** AlianDead#6319
+**Discord:** aliandead
