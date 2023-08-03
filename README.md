@@ -4,7 +4,7 @@ This is Project Alian/DEAD — and Matr-x, experienced developer behind the proj
 ## About me
 I'm an High School student from France. I started my journey as a developer in late 2019.
 
-## My current projects
+## Projects from Alian/DEAD
  - ReNote;
  - eXsilon;
  - An operating system for PCs;
