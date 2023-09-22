@@ -28,5 +28,5 @@ I'm an High School student from France. I started my journey as a developer in l
 ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliandead&hide=stars&theme=dark&show_icons=true&layout=compact)
 
 ## Contact
-**Discord:** aliandead
-**Instagram:** aliandead
+- **Discord:** aliandead
+- **Instagram:** aliandead
