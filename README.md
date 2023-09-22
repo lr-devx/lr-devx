@@ -29,3 +29,4 @@ I'm an High School student from France. I started my journey as a developer in l
 
 ## Contact
 **Discord:** aliandead
+**Instagram:** aliandead
