@@ -2,7 +2,7 @@
 This is Alian/DEAD, an experienced developer!
 
 ## About me
-I'm an High School student from France. I started my journey as a developer in late 2019.
+I'm Liam, an High School student from France. I started my journey as a developer in late 2019.
 
 ## Projects from Alian/DEAD
 
