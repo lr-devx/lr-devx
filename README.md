@@ -1,5 +1,5 @@
 ## Hello there 👋
-This is Alian/DEAD, an experienced developer! More at https://liam-dev.fr!
+This is Alian/DEAD, an experienced developer! See more at https://liam-dev.fr!
 
 ## About me
 I'm Liam, an High School student from France. I started my journey as a developer in late 2019.
