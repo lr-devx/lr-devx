@@ -2,7 +2,7 @@
 This is Alian/DEAD, a newly born project started in 2022!
 
 ## About me
-I'm Liam, an High School student from France. I started my journey as a developer in late 2019. See more at https://liam-dev.fr!
+I'm Liam, an high school student from France. I started my journey as a developer in late 2019. See more at https://liam-dev.fr!
 
 ## Projects from Alian/DEAD
 
